@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bmorphism-nats-mcp-server-badge.png)](https://mseep.ai/app/bmorphism-nats-mcp-server)
+
 # NATS MCP Server
 
 An MCP (Model Context Protocol) server that provides access to [NATS](https://nats.io/), a cloud native messaging system, through the NATS CLI.
